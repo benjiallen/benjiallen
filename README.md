@@ -1,4 +1,4 @@
-### Hi there 👋
+## About Ben 👋
 
 <!--
 **benjiallen/benjiallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Ben and I care about product management, digital accessibility, and good user experience.
+My name is Ben. I care about product management, digital accessibility, and good user experience.
 
-- 🔭 I’m currently working on accessibility at [GitHub](https://www.github.com/)
-- 🌱 I’m currently learning [python](https://www.python.org/) over at [python morsels](https://www.pythonmorsels.com/)
+- 🔭 I'm currently working on accessibility at [GitHub](https://www.github.com/)
+- ✍️ I'm writing over at [benallenblog.com](https://benallenblog.com/)
+- 🌱 I'm currently learning [python](https://www.python.org/) over at [python morsels](https://www.pythonmorsels.com/)
 - 💬 Ask me about digital accessibility, product management, [Agile](https://agilemanifesto.org/)
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/benallen81/)
 - 😄 Pronouns: he/him
