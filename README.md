@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Ben and I care about product management, digital accessibility, and good user experience.
+
+- 🔭 I’m currently working on accessibility at [GitHub](https://www.github.com/)
+- 🌱 I’m currently learning [python](https://www.python.org/) over at [python morsels](https://www.pythonmorsels.com/)
+- 💬 Ask me about digital accessibility, product management, [Agile](https://agilemanifesto.org/)
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/benallen81/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: unusually good at most bar games. Pool, darts, foosball, ping pong. Likely to take all of these games too seriously.
