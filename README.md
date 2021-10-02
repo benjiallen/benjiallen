@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Ben. I care about product management, digital accessibility, and good user experience.
+I care about product management, digital accessibility, and good user experience.
 
 - 🔭 I'm currently working on accessibility at [GitHub](https://www.github.com/)
 - ✍️ I'm writing over at [benallenblog.com](https://benallenblog.com/)
