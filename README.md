@@ -20,6 +20,6 @@ I care about product management, digital accessibility, and good user experience
 - ✍️ I'm writing over at [benallenblog.com](https://benallenblog.com/)
 - 🌱 I'm currently learning [python](https://www.python.org/) over at [python morsels](https://www.pythonmorsels.com/)
 - 💬 Ask me about digital accessibility, product management, [Agile](https://agilemanifesto.org/)
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/benallen81/)
+- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/benallen81/) or [Twitter @benjaminallen](https://twitter.com/benjaminallen)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: unusually good at most bar games. Pool, darts, foosball, ping pong. Likely to take all of these games too seriously.
