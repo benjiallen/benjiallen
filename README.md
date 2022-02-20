@@ -28,5 +28,5 @@ I care about product management, digital accessibility, and good user experience
 
 <ul>
   <li><span aria-hidden="true">🔭</span></li>
-  <li><g-emoji aria-hidden="true" class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji></li>
+  <li><g-emoji alt="" class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji></li>
 </ul>
