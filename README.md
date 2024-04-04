@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 I care about product management, digital accessibility, and good user experience.
 
-- I'm currently working on accessibility at [GitHub](https://www.github.com/)
+- I'm currently working on accessibility at [Deque](https://www.deque.com/)
+- I used to work on accessibility at [GitHub](https://www.github.com/)
 - I'm writing over at [benallenblog.com](https://benallenblog.com/)
 - I'm currently learning [python](https://www.python.org/) over at [python morsels](https://www.pythonmorsels.com/)
 - Ask me about digital accessibility, product management, [Agile](https://agilemanifesto.org/)
