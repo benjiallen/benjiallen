@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 I care about product management, digital accessibility, and good user experience.
 
-- I'm currently working on accessibility at [Deque](https://www.deque.com/)
-- I used to work on accessibility at [GitHub](https://www.github.com/)
+- I'm currently managing several products - [linter](https://docs.deque.com/linter/4.0.0/en/linter-home), [CLI](https://docs.deque.com/devtools-for-web/4/en/cli-home), [APIs](https://docs.deque.com/devtools-for-web/4/en/about-axe-devtools-apis), and [axe Developer Hub](https://docs.deque.com/developer-hub/2/en/dh-welcome) - for [Deque](https://www.deque.com/)
+- I used to work on accessibility at [GitHub](https://www.github.com/) - building out systems for internal teams
 - I'm writing over at [benallenblog.com](https://benallenblog.com/)
 - I'm currently learning [python](https://www.python.org/) over at [python morsels](https://www.pythonmorsels.com/)
 - Ask me about digital accessibility, product management, [Agile](https://agilemanifesto.org/)
-- Contact me via [LinkedIn](https://www.linkedin.com/in/benallen81/) or [Twitter @benjaminallen](https://twitter.com/benjaminallen)
+- Contact me via [LinkedIn](https://www.linkedin.com/in/benallen81/)
 - Pronouns: he/him
 - Fun fact: unusually good at most bar games. Pool, darts, foosball, ping pong. Likely to take all of these games too seriously.
